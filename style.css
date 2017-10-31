@@ -1,3 +1,10 @@
 body {
-	background-color: #EEE;
+	font-family: Verdana;
+	font-size: 5em;
+	text-align: center;
+	background-color: #555555;
+}
+.mid {
+	margin-top: 20%;
+	color: white; 
 }

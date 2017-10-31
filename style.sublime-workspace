@@ -1,0 +1,371 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"et",
+				"getElementById"
+			],
+			[
+				"gte",
+				"getElementById"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"form",
+				"Formulaire"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"sec",
+				"select\tTag"
+			],
+			[
+				"op",
+				"optgroup\tTag"
+			],
+			[
+				"boder",
+				"border"
+			],
+			[
+				"ch",
+				"checkbox"
+			],
+			[
+				"li",
+				"listnavigateurs"
+			],
+			[
+				"min",
+				"minlength\tAttr"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"fi",
+				"fieldset\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"im",
+				"image"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"le",
+				"padding-left"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"A",
+				"ADDRESS\tTag"
+			],
+			[
+				"backgr",
+				"background-repeat"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"ifr",
+				"iframe_a"
+			],
+			[
+				"acceui",
+				"Acceuil"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"t",
+				"translate\tAttr"
+			],
+			[
+				"bacrk",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 137.0,
+		"last_filter": "insatllp",
+		"selected_items":
+		[
+			[
+				"insatllp",
+				"Package Control: Install Package"
+			],
+			[
+				"installe ",
+				"Package Control: Install Package"
+			],
+			[
+				"installpackage contro",
+				"Install Package Control"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/Projet formulaire/action.php",
+		"/C/xampp/htdocs/Projet formulaire/exodate.php",
+		"/C/xampp/htdocs/Projet formulaire/exoboucle.php",
+		"/C/xampp/htdocs/Projet formulaire/index.php",
+		"/C/Users/stagiaire.PORT-F17-44.000/Documents/WEB-DCW/Projet formulaire/index.html",
+		"/C/Users/stagiaire.PORT-F17-44.000/Documents/WEB-DCW/Projet1/pages/agk1.html",
+		"/C/Users/stagiaire.PORT-F17-44.000/Documents/WEB-DCW/Projet1/css/style.css",
+		"/C/Users/stagiaire.PORT-F17-44.000/Documents/WEB-DCW/Projet1/index.html",
+		"/C/Users/stagiaire.PORT-F17-44.000/Documents/WEB-DCW/Projet1/pages/anime.html",
+		"/C/Users/stagiaire.PORT-F17-44.000/Documents/WEB-DCW/Projet1/pages/accueil.html",
+		"/C/Users/stagiaire.PORT-F17-44.000/Documents/WEB-DCW/Projet1/pages/akamegakill.html",
+		"/C/Users/stagiaire.PORT-F17-44.000/Documents/WEB-DCW/Projet1/pages/categorie.html",
+		"/C/Users/stagiaire.PORT-F17-44.000/Documents/WEB-DCW/Projet1/pages/categorie-action.html",
+		"/C/Users/stagiaire.PORT-F17-44.000/Documents/WEB-DCW/Projet1/pages/rezero.html",
+		"/C/Users/stagiaire.PORT-F17-44.000/Documents/WEB-DCW/Projet1/pages/faq.html",
+		"/C/Users/stagiaire.PORT-F17-44.000/Documents/WEB-DCW/Projet1/pages/contact.html",
+		"/C/Users/stagiaire.PORT-F17-44.000/Documents/WEB-DCW/Projet1/style.css",
+		"/C/Users/stagiaire.PORT-F17-44.000/Documents/WEB-DCW/Projet1/pages/futuresorties.html",
+		"/C/Users/stagiaire.PORT-F17-44.000/Documents/WEB-DCW/Projet1/pages/anime",
+		"/C/Users/stagiaire.PORT-F17-44.000/Documents/WEB-DCW/projet avec css/index2.html",
+		"/C/Users/stagiaire.PORT-F17-44.000/Documents/WEB-DCW/Projet1/index2.html",
+		"/C/Users/stagiaire.PORT-F17-44.000/Documents/WEB-DCW/projet indi/index.html",
+		"/C/Users/stagiaire.PORT-F17-44.000/Documents/WEB-DCW/index.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "style.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
